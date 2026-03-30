@@ -8,7 +8,7 @@
 
 <!-- Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jornith&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&icon_color=289077&hide_title=true&text_color=f0f6fb&ring_color=289077" height="150"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=jornith&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&icon_color=289077&text_color=f0f6fb&ring_color=289077" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jornith&hide_border=true&background=00000000&ring=289077&fire=289077&currStreakLabel=f0f6fb&sideLabels=f0f6fb&currStreakNum=f0f6fb&sideNums=f0f6fb&dates=8b9499" height="150"/>
 </div>
 
